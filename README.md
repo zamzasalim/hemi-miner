@@ -48,3 +48,6 @@ sudo rm /etc/systemd/system/hemi-miner.service && \
 sudo systemctl daemon-reload
 ```
 ### Cek Status Node : [Here](https://testnet.popstats.hemi.network/)
+<p align="center">
+  <img height="300" height="auto" src="https://github.com/zamzasalim/hemi-miner/blob/main/photo_2024-10-22_21-29-07.jpg">
+</p>
