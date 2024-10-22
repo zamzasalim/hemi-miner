@@ -47,3 +47,4 @@ sudo rm -rf hemi && \
 sudo rm /etc/systemd/system/hemi-miner.service && \
 sudo systemctl daemon-reload
 ```
+### Cek Status Node : [Here](https://testnet.popstats.hemi.network/)
